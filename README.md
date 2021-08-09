@@ -1,1 +1,1 @@
-# A basic node app with auth.
+# A basic node app with JWT auth.
