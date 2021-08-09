@@ -11,7 +11,6 @@ const handleErrors = (err) => {
   let errors = { email: "", password: "" };
 
   // duplicate error code
-
   if (err.code === 11000) {
     errors.email = "that email is already registered";
     return errors;
