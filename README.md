@@ -1,1 +1,1 @@
-# User Model
+# Mongoose Validation
