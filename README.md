@@ -1,1 +1,1 @@
-# Hashing Passwords
+# Auth Views
