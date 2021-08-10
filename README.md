@@ -1,1 +1,1 @@
-# Protecting Routes
+# Logging Users Out
