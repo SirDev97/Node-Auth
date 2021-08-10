@@ -1,1 +1,1 @@
-# Logging Users Out
+# Checking the Current User
